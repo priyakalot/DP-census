@@ -14,7 +14,7 @@
 ### U.S. Census Bureau FAQ page on the 2020 DAS
 * U.S. Census Bureau, “Disclosure Avoidance: Latest Frequently Asked Questions”, Dec 2021. [Online]. Available at: https://www.census.gov/programs-surveys/decennial-census/decade/2020/planning-management/process/disclosure-avoidance/2020-das-updates/2020-das-faqs.html.
 
-### U.S. Census Bureau presentations on the new DAS
+### U.S. Census Bureau presentations & products
 * M. Hawes, “Understanding the 2020 Census Disclosure Avoidance System: Simulated Reconstruction-Abetted Re-identification Attack on the 2010 Census”, May 2021. [Online]. Available at: https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/simulated-reconstruction-abetted-re-identification-attack-on-the-2010-census.html.
 
 * M. Hawes, “Understanding the 2020 Census Disclosure Avoidance System: Differential Privacy 101”, May 2021. [Online]. Available at: https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/differential-privacy-101.html.
