@@ -25,6 +25,8 @@
 
 * M. Hawes and M. Ratcliffe, “Understanding the 2020 Census Disclosure Avoidance System: Differential Privacy 201 and the TopDown Algorithm”, May 2021. [Online]. Available at: https://www2.census.gov/about/training-workshops/2021/2021-05-13-das-presentation.pdf.
 
+* U.S. Census Bureau, "2010 Demonstration Data Products", 2021. [Online]. Available at: https://www.census.gov/programs-surveys/decennial-census/decade/2020/planning-management/process/disclosure-avoidance/2010-demonstration-data-products.html.
+
 ### Re-identification or reconstruction studies and DAS history
 * L. McKenna, “Research and Methodology Directorate: U.S. Census Bureau Reidentification Studies”, United States Census Bureau, 2019.
 
@@ -50,6 +52,8 @@
 * C. T. Kenny, S. Kuriwaki, C. McCartan, E. T. R. Rosenman, T. Simko, and K. Imai, “The use of differential privacy for census data and its impact on redistricting: The case of the 2020 US Census”, Science advances, vol 7, no 41, bl eabk3283, 2021.
 
 * M. Bun et al., “Statistical Inference is Not a Privacy Violation”, Jun 2021. [Online]. Available at: https://differentialprivacy.org/inference-is-not-a-privacy-violation/.
+
+* M. Christ, S. Radway, and S. M. Bellovin, ‘Differential Privacy and Swapping: Examining De-Identification’s Impact on Minority Representation and Privacy Preservation in the US Census’, IEEE Symposium on Security and Privacy (SP), 2022, pp. 1564–1564.
 
 ### Public opinion about census participation
 #### Pew Research Center survey study
